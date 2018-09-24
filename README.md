@@ -1,5 +1,5 @@
 # laravel-permissions
-A Bash Script to repair your laravel permissions
+A Bash Script to repair your laravel permissions (only ubuntu linux and osx apple)
 
 # How to use
 1. Copy & Past the laravel-permissions.sh to your root project
